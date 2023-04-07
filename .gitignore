@@ -1,0 +1,6 @@
+/env
+/.vscode
+tokens.txt
+pat_tokens.txt
+logs.txt
+configs.yml

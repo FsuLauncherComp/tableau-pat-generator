@@ -1,0 +1,11 @@
+tableau:
+  server_url: "your_tableau_server_url"
+  version: "3.11"
+  site_name: ""
+  username: "your_username"
+  password: "your_password"
+
+users:
+  - "User name 1"
+  - "User name 2"
+  - "etc"
